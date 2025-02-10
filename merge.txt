@@ -1,2 +1,3 @@
 Hello
 Merge conflict , please resolve manually
+Check for stash commit it
